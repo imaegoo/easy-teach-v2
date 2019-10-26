@@ -1,0 +1,3 @@
+行 81: 控件 SysInfo1 的类 SysInfoLib.SysInfo 不是一个已加载的控件类。
+行 604: 控件 CommonDialog1 的类 MSComDlg.CommonDialog 不是一个已加载的控件类。
+行 647: 控件 WebBrowser2 的类 SHDocVwCtl.WebBrowser 不是一个已加载的控件类。

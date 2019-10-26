@@ -1,0 +1,9 @@
+Private Declare Function InternetCheckConnection Lib "wininet.dll" Alias"InternetCheckConnectionA" (ByVal lpszUrl As String, ByVal dwFlags As Long, ByVal dwReserved As Long) As Long
+
+Private Sub Form_Load()
+If InternetCheckConnection("http://www.baidu.com", &H1, 0&) = 0 Then
+Me.Caption = "没连"
+Else
+Me.Caption = "连了"
+End If
+End Sub
