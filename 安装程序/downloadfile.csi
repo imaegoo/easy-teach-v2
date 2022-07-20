@@ -1,0 +1,10 @@
+[历史]
+1=#P0#=mb	#P1#=Cdf_entDLFileDowning	#P2#=班班通助手在线安装程序/BBTUpdate/Cdf_entDLFileDowning	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130829001432	#P7#=0	#P8#=6	.
+2=#P0#=mb	#P1#=Cdf_entDLFileStatus	#P2#=班班通助手在线安装程序/BBTUpdate/Cdf_entDLFileStatus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130829001418	#P7#=0	#P8#=-1	.
+3=#P0#=mb	#P1#=Form_QueryUnload	#P2#=班班通助手在线安装程序/BBTUpdate/Form_QueryUnload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130829001308	#P7#=0	#P8#=-1	.
+4=#P0#=mb	#P1#=WebBrowser1_DocumentComplete	#P2#=班班通助手在线安装程序/BBTUpdate/WebBrowser1_DocumentComplete	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131019142629	#P7#=0	#P8#=22	.
+5=#P0#=mb	#P1#=Form_Load	#P2#=班班通助手在线安装程序/BBTUpdate/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130829000726	#P7#=0	#P8#=4	.
+6=#P0#=mb	#P1#=Command2_Click	#P2#=班班通助手在线安装程序/BBTUpdate/Command2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130828222750	#P7#=0	#P8#=4	.
+7=#P0#=mb	#P1#=Command1_Click	#P2#=班班通助手在线安装程序/BBTUpdate/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130828222741	#P7#=0	#P8#=4	.
+8=#P0#=mb	#P1#=Check1_Click	#P2#=班班通助手在线安装程序/BBTUpdate/Check1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130828222717	#P7#=0	#P8#=6	.
+9=#P0#=mb	#P1#=DLFileStop	#P2#=班班通助手在线安装程序/Cls_DownLoad/DLFileStop	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130825090310	#P7#=0	#P8#=2	.
